@@ -1,0 +1,28 @@
+_repo: Forestry-for-Farmers_62686
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fernow, B. E. (Bernhard Eduard)
+    alias: Fernow, Bernhard Eduard
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '45011'
+    url: http://www.gutenberg.org/2009/agents/45011
+    wikipedia: https://en.wikipedia.org/wiki/Bernhard_Fernow
+description: ''
+gutenberg_issued: '2020-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Farmers' bulletin no. 67
+subjects:
+- !lcsh 'Forests and forestry'
+- !lcc 'SD'
+- !lcsh 'Agroforestry'
+- GITenberg
+title: Forestry for Farmers
+url: http://www.gutenberg.org/ebooks/62686
